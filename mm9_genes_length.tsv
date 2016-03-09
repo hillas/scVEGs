@@ -1,4 +1,4 @@
-geneName	geneChr	strand	exonNumber	geneLength
+geneName	geneChromosome	strand	exonNumber	geneLength
 0610005C13Rik	chr7	-	5	1122
 0610007C21Rik	chr5	+	7	961
 0610007L01Rik	chr5	+	8	3845
