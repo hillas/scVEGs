@@ -1,4 +1,4 @@
-detectVEG <- function(data, pVal, pFlag, species, tmpName) {
+scVEGs <- function(data, pVal, pFlag, species, tmpName) {
   require(locfit)
   require(MASS)
   require(hydroGOF)
