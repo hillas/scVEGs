@@ -1,4 +1,4 @@
-geneName	geneChr	strand	exonNumber	geneLength
+geneName	geneChromosome	strand	exonNumber	geneLength
 1/2-SBSRNA4	chr4	-	3	957
 A1BG	chr19	-	8	1766
 A1BG-AS1	chr19	+	4	2130
