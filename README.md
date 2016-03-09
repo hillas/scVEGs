@@ -1,6 +1,6 @@
 # Introduction 
 
-[scVEGs](scVEGs/scVEGs.r) is a novel algorithm for single-cell RNA-seq (scRNA-seq) data to determine significant variably expressed genes (VEGs) using a gene expression variation model (GEVM). It utilizes the relation between coefficient of variation (CV) and average expression level to address the over-dispersion of single-cell data, and its corresponding statistical significance to quantify the variably expressed genes. scVEGs paper will be published in BMC genomics.
+[scVEGs](scVEGs/scVEGs.r) is a novel algorithm for single-cell RNA-seq (scRNA-seq) data to determine significant variably expressed genes (VEGs) using a gene expression variation model (GEVM). It utilizes the relation between coefficient of variation (CV) and average expression level to address the over-dispersion of single-cell data, and its corresponding statistical significance to quantify the variably expressed genes. For more details about the algorithm , read the scVEGs paper that will be published in BMC genomics.
 
 # Installation 
 
